@@ -1,3 +1,10 @@
+/**
+ * File name:    server.js **  
+ * Student name: Krishna Ramlakhan
+ * Student ID:   818583171 
+ * Date:         March 1st, 2023 
+ * App Name: Book List
+ */
 import debug from 'debug';
 debug('comp-229');
 import http from 'http';

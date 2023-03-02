@@ -1,3 +1,11 @@
+/**
+ * File name:    app.js **  Config
+ * Student name: Krishna Ramlakhan
+ * Student ID:   818583171 
+ * Date:         March 1st, 2023 
+ * App Name: Book List
+ */
+
 import createError from 'http-errors';
 import express from 'express';
 
